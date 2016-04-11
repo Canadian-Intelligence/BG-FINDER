@@ -5,4 +5,6 @@ applications:
   instances: 1
   host: nhcsalesdemo
   path: ./target/pcfdemo.war
+  services:
+  - rabbitmq
  
