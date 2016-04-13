@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nhcsalesdemo
+- name: nhcdemo88
   memory: 512M
   instances: 1
   host: nhcsalesdemo
