@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nhcsales
+- name: nhcsalesmo
   memory: 512M
   instances: 1
   host: nhcsalesdemo
