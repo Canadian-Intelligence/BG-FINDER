@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcsalesmo
+- name: bgfinder
   memory: 512M
   instances: 1
-  host: nhcsalesdemo
+  host: bgfinder
   path: ./target/pcfdemo.war
   services:
   - rabbitmq
