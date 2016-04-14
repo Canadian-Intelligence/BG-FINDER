@@ -10,7 +10,9 @@
 	</repositories>
   
   <Search-String>
-  
+  		search-range=GLOBAL
+    	search-sources="Social, CCTV, TSA, NSA, FBI, MOSSAD, MI6, DISNEY"
+    	search-priority="High-Ho"
   
   </Search-String>
 
