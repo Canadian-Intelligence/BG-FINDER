@@ -8,6 +8,11 @@
 			<url>http://repo.springsource.org/milestone</url>
 		</repository>
 	</repositories>
+  
+  <Search-String>
+  
+  
+  </Search-String>
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pivotal</groupId>
