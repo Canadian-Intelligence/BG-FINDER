@@ -4,7 +4,7 @@ applications:
   memory: 512M
   instances: 2
   host: nhcsalesdemo
-  path: ./target/pcfdemo.war
+  path: ./target/pcfdemo2.war
   services:
   - rabbitmq
  
