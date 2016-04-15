@@ -16,7 +16,6 @@
     <search-range>Global</search-range>
     <search-sources>Instagram,Facebook,Snapchat,CCTV,TSA,NSA,FBI,MOSSAD,MI6,DISNEY,CIA</search-sources>
     <search-priority>max</search-priority>
-      <search-gender>MALE</search-gender>
 </BG-FINDER_Search-String>
   
   
