@@ -9,12 +9,11 @@
 		</repository>
 	</repositories>
   
-  <Search-String>
-  		search-range=GLOBAL
-    	search-sources="Social, CCTV, TSA, NSA, FBI, MOSSAD, MI6, DISNEY"
-    	search-priority="High-Ho"
-  
-  </Search-String>
+  <BG-FINDER_Search-String>
+    <search-range>Global</search-range>
+    <search-sources>Social,CCTV,TSA,NSA,FBI,MOSSAD,MI6,DISNEY</search-sources>
+    <search-priority>max</search-priority>
+  </BG-FINDER_Search-String>
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pivotal</groupId>
