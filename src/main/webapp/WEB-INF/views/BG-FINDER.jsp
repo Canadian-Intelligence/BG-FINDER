@@ -14,7 +14,7 @@
 
 <BG-FINDER_Search-String>
     <search-range>Global</search-range>
-    <search-sources>Social,CCTV,TSA,NSA,FBI,MOSSAD,MI6,DISNEY,CIA</search-sources>
+    <search-sources>Instagram,Facebook,Snapchat,CCTV,TSA,NSA,FBI,MOSSAD,MI6,DISNEY,CIA</search-sources>
     <search-priority>max</search-priority>
 </BG-FINDER_Search-String>
   
