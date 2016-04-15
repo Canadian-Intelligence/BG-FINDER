@@ -3,7 +3,7 @@ applications:
 - name: bgfinder
   memory: 512M
   instances: 1
-  host: bgfinder
+  host: bgfinderbond
   path: ./target/pcfdemo.war
   services:
   - rabbitmq
